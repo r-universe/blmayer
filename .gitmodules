@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "asciichartr"]
+	path = asciichartr
+	url = https://github.com/blmayer/asciichartr
+	shallow = true
+	registered = true
+[submodule "deep"]
+	path = deep
+	url = https://github.com/blmayer/deep
+	shallow = true
+	registered = true

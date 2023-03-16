@@ -1,0 +1,10 @@
+[
+  {
+    "package": "asciichartr",
+    "oncran": true
+  },
+  {
+    "package": "deep",
+    "oncran": true
+  }
+]
